@@ -1,0 +1,23 @@
+{
+  "name": "devjobs",
+  "version": "1.0.0",
+  "description": "Portal DevJobs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sariavaal/devJobsNode.git"
+  },
+  "author": "Sara Armoa",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sariavaal/devJobsNode/issues"
+  },
+  "homepage": "https://github.com/sariavaal/devJobsNode#readme",
+  "dependencies": {
+    "express-handlebars": "^7.1.2",
+    "nodemon": "^3.0.2"
+  }
+}
